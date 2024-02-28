@@ -61,7 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void _incrementCounter() {
     _counter--;
-    title = 'Lol é um lixo';
+    title = 'Gustavo gostoso e vagabundo';
     setState(() {});
   }
 
